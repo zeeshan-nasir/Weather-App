@@ -43,7 +43,7 @@ body {
   border: none;
   color: white;
   font-size: 1.2em;
-  text-align: center;
+  padding-left: 7px;
 }
 
 ::placeholder {
